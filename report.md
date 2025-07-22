@@ -4,7 +4,8 @@
 
 ## 解題說明
 
-本題要求實現一個遞迴函式，計算從 $1$ 到 $n$ 的連加總和。
+這題要實現一個遞迴函式計算 Ackermann 函數 $ A(m, n) $，
+<img width="663" height="136" alt="image" src="https://github.com/user-attachments/assets/0f44292d-e105-47c5-a4a6-8e1b45774090" />
 
 ### 解題策略
 
