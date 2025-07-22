@@ -65,6 +65,8 @@ int main() {
 | 測試四   | (2, 1)      | 5       | 5       |
 | 測試五   | (3, 0)     | 5 | 5 |
 
+###編譯與執行指令
+
 ```shell
 $ g++ -std=c++17 -o ackermann ackermann.cpp
 $ ./ackermann
