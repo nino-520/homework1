@@ -1,11 +1,10 @@
 # 51115141
 
-作業一
+作業二
 
 ## 解題說明
 
-這題要實現一個遞迴函式計算 Ackermann 函數  A(m, n) ，
-<img width="663" height="136" alt="image" src="https://github.com/user-attachments/assets/0f44292d-e105-47c5-a4a6-8e1b45774090" />
+這題是要我們設計一個 Polynomial 類來處理多項式，題目給了個框架，要我們實現構造函數（建個零多項式）、加法（兩個多項式相加）、乘法（兩個多項式相乘），還有評估（把 $   x   $ 代進去算值）。
 
 ### 解題策略
 
